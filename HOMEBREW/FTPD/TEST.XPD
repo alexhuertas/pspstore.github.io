@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=FPTD
+Size=13707
+Code=TEST00013
+FName=EBOOT.PBP
+AName=EBOOT.PBP
+
+[File]
+C=http://alexvaho.000webhostapp.com/EBOOT.PBP
+A=http://alexvaho.000webhostapp.com/EBOOT.PBP

@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=GBATEMP Installer
+Size=900
+Code=All_Install
+[File]
+C=http://alexvaho.000webhostapp.com/HOMEBREW/GBA/data.zip
+A=http://alexvaho.000webhostapp.com/HOMEBREW/GBA/EBOOT.PBP

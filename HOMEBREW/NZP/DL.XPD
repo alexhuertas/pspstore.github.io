@@ -1,0 +1,8 @@
+[Info]
+EID=gdp#
+Desc=NZP Installer
+Size=25.8 MB
+Code=All_Install
+[File]
+C=http://alexvaho.000webhostapp.com/HOMEBREW/NZP/data.zip
+A=http://alexvaho.000webhostapp.com/HOMEBREW/NZP/EBOOT.PBP

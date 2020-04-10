@@ -1,0 +1,11 @@
+[Info]
+EID=gdp#
+Desc=PSP Filer v6.4
+Size=5000
+Code=PSPFILER64
+FName=EBOOT.PBP
+AName=EBOOT.PBP
+
+[File]
+C=http://alexvaho.000webhostapp.com/HOMEBREW/FILER/EBOOT.PBP
+A=http://alexvaho.000webhostapp.com/HOMEBREW/FILER/EBOOT.PBP
